@@ -4,5 +4,8 @@
   "private": true,
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node index.js"
   }
 }
